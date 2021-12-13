@@ -1,0 +1,16 @@
+# Site settings
+title: Joy C. Opsvig
+description: Data Scientist
+# baseurl: "" # the subpath of your site, e.g. /blog
+# url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+
+# User settings
+username: Joy C. Opsvig
+user_description: Aspiring data scientist with strong background in public relations and communications. </b>I am a public relations professional turned aspiring data scientist. I’ve spent the past six years of my career helping some of the biggest names in tech share their important stories with the world - everything from how the transition to remote work will impact the U.S. economy to how global micro-small business optimism is on the rise. </b>I fell in love with data science while working with leading economists and data scientists at Upwork, LinkedIn, and Tinder. I found a niche for myself at my agency, helping mine our clients’ data and research reports and translating these findings into compelling stories. </b>I am a strong advocate for remote work and traveling. I have worked remotely since 2017, and since then, my passion for travel has taken me across Asia, Central and South America, and Europe. You can find me anywhere there is good Wi-Fi and a big cup of coffee. Reach out if you’re looking to chat anything data or travel related!
+user_title: Data Scientist
+email: joyopsvig@gmail.com
+# twitter_username: lorem_ipsum
+github_username:  joycorrine
+# gplus_username:  lorem_ipsum
+
+exclude: ['package.json', 'src' , 'node_modules']
