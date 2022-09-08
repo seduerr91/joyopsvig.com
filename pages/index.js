@@ -21,7 +21,7 @@ export default function Home({ allPostsData } ) {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>I am Sebastian. I have a passion for NLP. So much so that I took a sabbatical from my management job to become an NLP engineer. Besides coding, I love yoga, hiking, cooking, and running.</p>
+        <p>I fell in love with data science while working with leading economists and data scientists at Upwork, LinkedIn, and Tinder. I found a niche for myself at my agency, helping mine our clients’ data and research reports and translating these findings into compelling stories.</p>
       </section>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
         <h2 className={utilStyles.headingLg}>Blog</h2>
